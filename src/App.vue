@@ -56,7 +56,9 @@ const selectMatch = (id: number) => {
   selectedMatchId.value = id
   nextTick(() => {
     const el = document.getElementById('match-' + id)
-    el?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
+    if (!el) return
+    // 橪向排列（手機）或縦向（桌面）都自動排列
+    el.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' })
   })
 }
 
@@ -365,5 +367,96 @@ body {
   text-align: center;
   padding: 50px;
   color: #999;
+}
+
+/* ==================
+   RWD - 手機版
+================== */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    height: 100dvh;
+  }
+
+  .sidebar {
+    width: 100% !important;
+    flex-direction: column;
+    border-right: none;
+    border-bottom: 1px solid #ddd;
+    max-height: 45vh;
+    flex-shrink: 0;
+  }
+
+  .sidebar.collapsed {
+    max-height: 52px;
+  }
+
+  .sidebar-header {
+    padding: 12px 16px;
+  }
+
+  .sidebar-header h1 { font-size: 1.2rem; }
+  .sidebar-header p { display: none; }
+
+  .header-top {
+    align-items: center;
+  }
+
+  .toggle-btn {
+    transform: rotate(90deg);
+  }
+
+  .sidebar.collapsed .toggle-btn {
+    transform: rotate(-90deg);
+  }
+
+  .match-list {
+    overflow-x: auto;
+    overflow-y: hidden;
+    display: flex;
+    flex-direction: row;
+    white-space: nowrap;
+  }
+
+  .match-tab {
+    display: inline-block;
+    padding: 10px 14px;
+    border-bottom: none;
+    border-right: 1px solid #eee;
+    min-width: 150px;
+    white-space: normal;
+  }
+
+  .match-tab.active {
+    border-left: none;
+    border-bottom: 3px solid var(--primary);
+    background: #eef4ff;
+  }
+
+  .main-content {
+    flex: 1;
+    padding: 16px;
+    overflow-y: auto;
+  }
+
+  .detail-card {
+    padding: 20px 16px;
+  }
+
+  .team-name {
+    font-size: 1.2rem;
+  }
+
+  .vs-display {
+    gap: 10px;
+  }
+
+  .bet-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .venue-info {
+    font-size: 0.8rem;
+  }
 }
 </style>
