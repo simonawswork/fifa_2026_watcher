@@ -628,6 +628,268 @@
       "away_team": "Ghana",
       "date": "2026-06-27",
       "venue": "TBD"
+    },
+
+    {
+      "match_id": 73,
+      "stage": "Round of 32",
+      "home_team": "Runner-up Group A",
+      "away_team": "Runner-up Group B",
+      "date": "2026-06-28",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 74,
+      "stage": "Round of 32",
+      "home_team": "Winner Group E",
+      "away_team": "Best 3rd place (A/B/C/D/F)",
+      "date": "2026-06-28",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 75,
+      "stage": "Round of 32",
+      "home_team": "Winner Group F",
+      "away_team": "Runner-up Group C",
+      "date": "2026-06-29",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 76,
+      "stage": "Round of 32",
+      "home_team": "Winner Group C",
+      "away_team": "Runner-up Group F",
+      "date": "2026-06-29",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 77,
+      "stage": "Round of 32",
+      "home_team": "Winner Group I",
+      "away_team": "Best 3rd place (C/D/F/G/H)",
+      "date": "2026-06-30",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 78,
+      "stage": "Round of 32",
+      "home_team": "Runner-up Group E",
+      "away_team": "Runner-up Group I",
+      "date": "2026-06-30",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 79,
+      "stage": "Round of 32",
+      "home_team": "Winner Group A",
+      "away_team": "Best 3rd place (C/E/F/H/I)",
+      "date": "2026-07-01",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 80,
+      "stage": "Round of 32",
+      "home_team": "Winner Group L",
+      "away_team": "Best 3rd place (E/H/I/J/K)",
+      "date": "2026-07-01",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 81,
+      "stage": "Round of 32",
+      "home_team": "Winner Group D",
+      "away_team": "Best 3rd place (B/E/F/I/J)",
+      "date": "2026-07-02",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 82,
+      "stage": "Round of 32",
+      "home_team": "Winner Group G",
+      "away_team": "Best 3rd place (A/E/H/I/J)",
+      "date": "2026-07-02",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 83,
+      "stage": "Round of 32",
+      "home_team": "Runner-up Group K",
+      "away_team": "Runner-up Group L",
+      "date": "2026-07-03",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 84,
+      "stage": "Round of 32",
+      "home_team": "Winner Group H",
+      "away_team": "Runner-up Group J",
+      "date": "2026-07-03",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 85,
+      "stage": "Round of 32",
+      "home_team": "Winner Group B",
+      "away_team": "Best 3rd place (E/F/G/I/J)",
+      "date": "2026-07-04",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 86,
+      "stage": "Round of 32",
+      "home_team": "Winner Group J",
+      "away_team": "Runner-up Group H",
+      "date": "2026-07-04",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 87,
+      "stage": "Round of 32",
+      "home_team": "Winner Group K",
+      "away_team": "Best 3rd place (D/E/I/J/L)",
+      "date": "2026-07-05",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 88,
+      "stage": "Round of 32",
+      "home_team": "Runner-up Group D",
+      "away_team": "Runner-up Group G",
+      "date": "2026-07-05",
+      "venue": "TBD"
+    },
+
+    {
+      "match_id": 89,
+      "stage": "Round of 16",
+      "home_team": "Winner Match 73",
+      "away_team": "Winner Match 74",
+      "date": "2026-07-07",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 90,
+      "stage": "Round of 16",
+      "home_team": "Winner Match 75",
+      "away_team": "Winner Match 76",
+      "date": "2026-07-07",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 91,
+      "stage": "Round of 16",
+      "home_team": "Winner Match 77",
+      "away_team": "Winner Match 78",
+      "date": "2026-07-08",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 92,
+      "stage": "Round of 16",
+      "home_team": "Winner Match 79",
+      "away_team": "Winner Match 80",
+      "date": "2026-07-08",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 93,
+      "stage": "Round of 16",
+      "home_team": "Winner Match 81",
+      "away_team": "Winner Match 82",
+      "date": "2026-07-09",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 94,
+      "stage": "Round of 16",
+      "home_team": "Winner Match 83",
+      "away_team": "Winner Match 84",
+      "date": "2026-07-09",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 95,
+      "stage": "Round of 16",
+      "home_team": "Winner Match 85",
+      "away_team": "Winner Match 86",
+      "date": "2026-07-10",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 96,
+      "stage": "Round of 16",
+      "home_team": "Winner Match 87",
+      "away_team": "Winner Match 88",
+      "date": "2026-07-10",
+      "venue": "TBD"
+    },
+
+    {
+      "match_id": 97,
+      "stage": "Quarter-final",
+      "home_team": "Winner Match 89",
+      "away_team": "Winner Match 90",
+      "date": "2026-07-12",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 98,
+      "stage": "Quarter-final",
+      "home_team": "Winner Match 91",
+      "away_team": "Winner Match 92",
+      "date": "2026-07-12",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 99,
+      "stage": "Quarter-final",
+      "home_team": "Winner Match 93",
+      "away_team": "Winner Match 94",
+      "date": "2026-07-13",
+      "venue": "TBD"
+    },
+    {
+      "match_id": 100,
+      "stage": "Quarter-final",
+      "home_team": "Winner Match 95",
+      "away_team": "Winner Match 96",
+      "date": "2026-07-13",
+      "venue": "TBD"
+    },
+
+    {
+      "match_id": 101,
+      "stage": "Semi-final",
+      "home_team": "Winner Match 97",
+      "away_team": "Winner Match 98",
+      "date": "2026-07-15",
+      "venue": "MetLife Stadium, East Rutherford, New Jersey, USA"
+    },
+    {
+      "match_id": 102,
+      "stage": "Semi-final",
+      "home_team": "Winner Match 99",
+      "away_team": "Winner Match 100",
+      "date": "2026-07-16",
+      "venue": "AT&T Stadium, Dallas, USA"
+    },
+
+    {
+      "match_id": 103,
+      "stage": "Third place play-off",
+      "home_team": "Loser Match 101",
+      "away_team": "Loser Match 102",
+      "date": "2026-07-18",
+      "venue": "Hard Rock Stadium, Miami, USA"
+    },
+
+    {
+      "match_id": 104,
+      "stage": "Final",
+      "home_team": "Winner Match 101",
+      "away_team": "Winner Match 102",
+      "date": "2026-07-19",
+      "venue": "MetLife Stadium, East Rutherford, New Jersey, USA"
     }
   ]
 }
