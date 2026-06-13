@@ -14,33 +14,39 @@
       "group": "A",
       "home_team": "Mexico",
       "away_team": "South Africa",
-      "date": "2026-06-11",
-      "venue": "Estadio Azteca, Mexico City, Mexico"
+      "date": "2026-06-12",
+      "venue": "Estadio Azteca, Mexico City, Mexico",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 2,
       "group": "A",
       "home_team": "South Korea",
       "away_team": "Czech Republic",
-      "date": "2026-06-11",
-      "venue": "NRG Stadium, Houston, USA"
+      "date": "2026-06-12",
+      "venue": "NRG Stadium, Houston, USA",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 3,
       "group": "B",
       "home_team": "Canada",
       "away_team": "Bosnia and Herzegovina",
-      "date": "2026-06-12",
-      "venue": "BMO Field, Toronto, Canada"
+      "date": "2026-06-13",
+      "venue": "BMO Field, Toronto, Canada",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 4,
       "group": "D",
       "home_team": "United States",
       "away_team": "Paraguay",
-      "date": "2026-06-12",
-      "time_local": "18:00",
-      "timezone": "PDT (UTC-7)",
+      "date": "2026-06-13",
+      "time_local": "09:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "SoFi Stadium, Los Angeles, USA"
     },
     {
@@ -48,17 +54,19 @@
       "group": "B",
       "home_team": "Qatar",
       "away_team": "Switzerland",
-      "date": "2026-06-13",
-      "venue": "TBD"
+      "date": "2026-06-14",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 7,
       "group": "C",
       "home_team": "Brazil",
       "away_team": "Morocco",
-      "date": "2026-06-13",
-      "time_local": "18:00",
-      "timezone": "EDT (UTC-4)",
+      "date": "2026-06-14",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
     },
     {
@@ -66,9 +74,9 @@
       "group": "C",
       "home_team": "Haiti",
       "away_team": "Scotland",
-      "date": "2026-06-13",
-      "time_local": "21:00",
-      "timezone": "EDT (UTC-4)",
+      "date": "2026-06-14",
+      "time_local": "09:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
     },
     {
@@ -76,9 +84,9 @@
       "group": "D",
       "home_team": "Australia",
       "away_team": "Turkey",
-      "date": "2026-06-13",
-      "time_local": "21:00",
-      "timezone": "PDT (UTC-7)",
+      "date": "2026-06-14",
+      "time_local": "12:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
     },
     {
@@ -86,48 +94,20 @@
       "group": "E",
       "home_team": "Ivory Coast",
       "away_team": "Ecuador",
-      "date": "2026-06-14",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 10,
-      "group": "E",
-      "home_team": "Germany",
-      "away_team": "Curaçao",
-      "date": "2026-06-14",
-      "venue": "TBD"
+      "date": "2026-06-15",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 11,
       "group": "F",
       "home_team": "Netherlands",
       "away_team": "Japan",
-      "date": "2026-06-14",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 12,
-      "group": "F",
-      "home_team": "Sweden",
-      "away_team": "Tunisia",
-      "date": "2026-06-14",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 13,
-      "group": "H",
-      "home_team": "Saudi Arabia",
-      "away_team": "Uruguay",
       "date": "2026-06-15",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 14,
-      "group": "H",
-      "home_team": "Spain",
-      "away_team": "Cape Verde",
-      "date": "2026-06-15",
-      "venue": "TBD"
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 16,
@@ -135,18 +115,58 @@
       "home_team": "Belgium",
       "away_team": "Egypt",
       "date": "2026-06-15",
-      "time_local": "12:00",
-      "timezone": "PDT (UTC-7)",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "SoFi Stadium, Los Angeles, USA"
+    },
+    {
+      "match_id": 10,
+      "group": "E",
+      "home_team": "Germany",
+      "away_team": "Curaçao",
+      "date": "2026-06-15",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
+    },
+    {
+      "match_id": 12,
+      "group": "F",
+      "home_team": "Sweden",
+      "away_team": "Tunisia",
+      "date": "2026-06-15",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
+    },
+    {
+      "match_id": 13,
+      "group": "H",
+      "home_team": "Saudi Arabia",
+      "away_team": "Uruguay",
+      "date": "2026-06-16",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
+    },
+    {
+      "match_id": 14,
+      "group": "H",
+      "home_team": "Spain",
+      "away_team": "Cape Verde",
+      "date": "2026-06-16",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 15,
       "group": "G",
       "home_team": "Iran",
       "away_team": "New Zealand",
-      "date": "2026-06-15",
-      "time_local": "18:00",
-      "timezone": "PDT (UTC-7)",
+      "date": "2026-06-16",
+      "time_local": "09:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "Lumen Field, Seattle, USA"
     },
     {
@@ -154,7 +174,19 @@
       "group": "J",
       "home_team": "Argentina",
       "away_team": "Algeria",
-      "date": "2026-06-16",
+      "date": "2026-06-17",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
+    },
+    {
+      "match_id": 17,
+      "group": "I",
+      "home_team": "France",
+      "away_team": "Senegal",
+      "date": "2026-06-17",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
     },
     {
@@ -162,27 +194,19 @@
       "group": "J",
       "home_team": "Austria",
       "away_team": "Jordan",
-      "date": "2026-06-16",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 17,
-      "group": "I",
-      "home_team": "France",
-      "away_team": "Senegal",
-      "date": "2026-06-16",
-      "time_local": "15:00",
-      "timezone": "EDT (UTC-4)",
-      "venue": "TBD"
+      "date": "2026-06-17",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 18,
       "group": "I",
       "home_team": "Iraq",
       "away_team": "Norway",
-      "date": "2026-06-16",
-      "time_local": "18:00",
-      "timezone": "EDT (UTC-4)",
+      "date": "2026-06-17",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
     },
     {
@@ -190,73 +214,89 @@
       "group": "L",
       "home_team": "Ghana",
       "away_team": "Panama",
-      "date": "2026-06-17",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 22,
-      "group": "L",
-      "home_team": "England",
-      "away_team": "Croatia",
-      "date": "2026-06-17",
-      "venue": "TBD"
+      "date": "2026-06-18",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 23,
       "group": "K",
       "home_team": "Portugal",
       "away_team": "DR Congo",
-      "date": "2026-06-17",
-      "venue": "TBD"
+      "date": "2026-06-18",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
+    },
+    {
+      "match_id": 22,
+      "group": "L",
+      "home_team": "England",
+      "away_team": "Croatia",
+      "date": "2026-06-18",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 24,
       "group": "K",
       "home_team": "Uzbekistan",
       "away_team": "Colombia",
-      "date": "2026-06-17",
-      "venue": "TBD"
+      "date": "2026-06-18",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 25,
       "group": "A",
       "home_team": "Czech Republic",
       "away_team": "South Africa",
-      "date": "2026-06-18",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 26,
-      "group": "B",
-      "home_team": "Switzerland",
-      "away_team": "Bosnia and Herzegovina",
-      "date": "2026-06-18",
-      "venue": "TBD"
+      "date": "2026-06-19",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 27,
       "group": "B",
       "home_team": "Canada",
       "away_team": "Qatar",
-      "date": "2026-06-18",
-      "venue": "TBD"
+      "date": "2026-06-19",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
+    },
+    {
+      "match_id": 26,
+      "group": "B",
+      "home_team": "Switzerland",
+      "away_team": "Bosnia and Herzegovina",
+      "date": "2026-06-19",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 28,
       "group": "A",
       "home_team": "Mexico",
       "away_team": "South Korea",
-      "date": "2026-06-18",
-      "venue": "TBD"
+      "date": "2026-06-19",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 32,
       "group": "D",
       "home_team": "United States",
       "away_team": "Australia",
-      "date": "2026-06-19",
-      "time_local": "12:00",
-      "timezone": "PDT (UTC-7)",
+      "date": "2026-06-20",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
     },
     {
@@ -264,9 +304,9 @@
       "group": "C",
       "home_team": "Scotland",
       "away_team": "Morocco",
-      "date": "2026-06-19",
-      "time_local": "18:00",
-      "timezone": "EDT (UTC-4)",
+      "date": "2026-06-20",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
     },
     {
@@ -274,9 +314,9 @@
       "group": "D",
       "home_team": "Turkey",
       "away_team": "Paraguay",
-      "date": "2026-06-19",
-      "time_local": "20:00",
-      "timezone": "PDT (UTC-7)",
+      "date": "2026-06-20",
+      "time_local": "08:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
     },
     {
@@ -284,9 +324,9 @@
       "group": "C",
       "home_team": "Brazil",
       "away_team": "Haiti",
-      "date": "2026-06-19",
-      "time_local": "20:30",
-      "timezone": "EDT (UTC-4)",
+      "date": "2026-06-20",
+      "time_local": "08:30",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
     },
     {
@@ -294,67 +334,79 @@
       "group": "E",
       "home_team": "Germany",
       "away_team": "Ivory Coast",
-      "date": "2026-06-20",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 34,
-      "group": "E",
-      "home_team": "Ecuador",
-      "away_team": "Curaçao",
-      "date": "2026-06-20",
-      "venue": "TBD"
+      "date": "2026-06-21",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 35,
       "group": "F",
       "home_team": "Netherlands",
       "away_team": "Sweden",
-      "date": "2026-06-20",
-      "venue": "TBD"
+      "date": "2026-06-21",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
+    },
+    {
+      "match_id": 34,
+      "group": "E",
+      "home_team": "Ecuador",
+      "away_team": "Curaçao",
+      "date": "2026-06-21",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 36,
       "group": "F",
       "home_team": "Tunisia",
       "away_team": "Japan",
-      "date": "2026-06-20",
-      "venue": "TBD"
+      "date": "2026-06-21",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 37,
       "group": "H",
       "home_team": "Uruguay",
       "away_team": "Cape Verde",
-      "date": "2026-06-21",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 38,
-      "group": "H",
-      "home_team": "Spain",
-      "away_team": "Saudi Arabia",
-      "date": "2026-06-21",
-      "venue": "TBD"
+      "date": "2026-06-22",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 39,
       "group": "G",
       "home_team": "Belgium",
       "away_team": "Iran",
-      "date": "2026-06-21",
-      "time_local": "12:00",
-      "timezone": "PDT (UTC-7)",
+      "date": "2026-06-22",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "BC Place, Vancouver, Canada"
+    },
+    {
+      "match_id": 38,
+      "group": "H",
+      "home_team": "Spain",
+      "away_team": "Saudi Arabia",
+      "date": "2026-06-22",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 40,
       "group": "G",
       "home_team": "New Zealand",
       "away_team": "Egypt",
-      "date": "2026-06-21",
-      "time_local": "18:00",
-      "timezone": "PDT (UTC-7)",
+      "date": "2026-06-22",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "Lumen Field, Seattle, USA"
     },
     {
@@ -362,7 +414,19 @@
       "group": "J",
       "home_team": "Argentina",
       "away_team": "Austria",
-      "date": "2026-06-22",
+      "date": "2026-06-23",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
+    },
+    {
+      "match_id": 42,
+      "group": "I",
+      "home_team": "France",
+      "away_team": "Iraq",
+      "date": "2026-06-23",
+      "time_local": "05:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
     },
     {
@@ -370,27 +434,19 @@
       "group": "J",
       "home_team": "Jordan",
       "away_team": "Algeria",
-      "date": "2026-06-22",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 42,
-      "group": "I",
-      "home_team": "France",
-      "away_team": "Iraq",
-      "date": "2026-06-22",
-      "time_local": "17:00",
-      "timezone": "EDT (UTC-4)",
-      "venue": "TBD"
+      "date": "2026-06-23",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 41,
       "group": "I",
       "home_team": "Norway",
       "away_team": "Senegal",
-      "date": "2026-06-22",
-      "time_local": "20:00",
-      "timezone": "EDT (UTC-4)",
+      "date": "2026-06-23",
+      "time_local": "08:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
     },
     {
@@ -398,73 +454,89 @@
       "group": "L",
       "home_team": "England",
       "away_team": "Ghana",
-      "date": "2026-06-23",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 46,
-      "group": "L",
-      "home_team": "Panama",
-      "away_team": "Croatia",
-      "date": "2026-06-23",
-      "venue": "TBD"
+      "date": "2026-06-24",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 47,
       "group": "K",
       "home_team": "Portugal",
       "away_team": "Uzbekistan",
-      "date": "2026-06-23",
-      "venue": "TBD"
+      "date": "2026-06-24",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
+    },
+    {
+      "match_id": 46,
+      "group": "L",
+      "home_team": "Panama",
+      "away_team": "Croatia",
+      "date": "2026-06-24",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 48,
       "group": "K",
       "home_team": "Colombia",
       "away_team": "DR Congo",
-      "date": "2026-06-23",
-      "venue": "TBD"
+      "date": "2026-06-24",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 51,
       "group": "B",
       "home_team": "Switzerland",
       "away_team": "Canada",
-      "date": "2026-06-24",
-      "venue": "TBD"
+      "date": "2026-06-25",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 52,
       "group": "B",
       "home_team": "Bosnia and Herzegovina",
       "away_team": "Qatar",
-      "date": "2026-06-24",
-      "venue": "TBD"
+      "date": "2026-06-25",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 53,
       "group": "A",
       "home_team": "Czech Republic",
       "away_team": "Mexico",
-      "date": "2026-06-24",
-      "venue": "TBD"
+      "date": "2026-06-25",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 54,
       "group": "A",
       "home_team": "South Africa",
       "away_team": "South Korea",
-      "date": "2026-06-24",
-      "venue": "TBD"
+      "date": "2026-06-25",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 49,
       "group": "C",
       "home_team": "Scotland",
       "away_team": "Brazil",
-      "date": "2026-06-24",
-      "time_local": "18:00",
-      "timezone": "EDT (UTC-4)",
+      "date": "2026-06-25",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
     },
     {
@@ -472,9 +544,9 @@
       "group": "C",
       "home_team": "Morocco",
       "away_team": "Haiti",
-      "date": "2026-06-24",
-      "time_local": "18:00",
-      "timezone": "EDT (UTC-4)",
+      "date": "2026-06-25",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
     },
     {
@@ -482,41 +554,29 @@
       "group": "E",
       "home_team": "Curaçao",
       "away_team": "Ivory Coast",
-      "date": "2026-06-25",
-      "venue": "TBD"
+      "date": "2026-06-26",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 56,
       "group": "E",
       "home_team": "Ecuador",
       "away_team": "Germany",
-      "date": "2026-06-25",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 57,
-      "group": "F",
-      "home_team": "Japan",
-      "away_team": "Sweden",
-      "date": "2026-06-25",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 58,
-      "group": "F",
-      "home_team": "Tunisia",
-      "away_team": "Netherlands",
-      "date": "2026-06-25",
-      "venue": "TBD"
+      "date": "2026-06-26",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 59,
       "group": "D",
       "home_team": "Turkey",
       "away_team": "United States",
-      "date": "2026-06-25",
-      "time_local": "19:00",
-      "timezone": "PDT (UTC-7)",
+      "date": "2026-06-26",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
     },
     {
@@ -524,35 +584,49 @@
       "group": "D",
       "home_team": "Paraguay",
       "away_team": "Australia",
-      "date": "2026-06-25",
-      "time_local": "19:00",
-      "timezone": "PDT (UTC-7)",
+      "date": "2026-06-26",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
+    },
+    {
+      "match_id": 57,
+      "group": "F",
+      "home_team": "Japan",
+      "away_team": "Sweden",
+      "date": "2026-06-26",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
+    },
+    {
+      "match_id": 58,
+      "group": "F",
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
+      "date": "2026-06-26",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 65,
       "group": "H",
       "home_team": "Cape Verde",
       "away_team": "Saudi Arabia",
-      "date": "2026-06-26",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 66,
-      "group": "H",
-      "home_team": "Uruguay",
-      "away_team": "Spain",
-      "date": "2026-06-26",
-      "venue": "TBD"
+      "date": "2026-06-27",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 61,
       "group": "I",
       "home_team": "Norway",
       "away_team": "France",
-      "date": "2026-06-26",
-      "time_local": "15:00",
-      "timezone": "EDT (UTC-4)",
+      "date": "2026-06-27",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
     },
     {
@@ -560,19 +634,29 @@
       "group": "I",
       "home_team": "Senegal",
       "away_team": "Iraq",
-      "date": "2026-06-26",
-      "time_local": "15:00",
-      "timezone": "EDT (UTC-4)",
+      "date": "2026-06-27",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "TBD"
+    },
+    {
+      "match_id": 66,
+      "group": "H",
+      "home_team": "Uruguay",
+      "away_team": "Spain",
+      "date": "2026-06-27",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 63,
       "group": "G",
       "home_team": "Egypt",
       "away_team": "Iran",
-      "date": "2026-06-26",
-      "time_local": "20:00",
-      "timezone": "PDT (UTC-7)",
+      "date": "2026-06-27",
+      "time_local": "08:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "Lumen Field, Seattle, USA"
     },
     {
@@ -580,58 +664,10 @@
       "group": "G",
       "home_team": "New Zealand",
       "away_team": "Belgium",
-      "date": "2026-06-26",
-      "time_local": "20:00",
-      "timezone": "PDT (UTC-7)",
+      "date": "2026-06-27",
+      "time_local": "08:00",
+      "timezone": "UTC+8 (台灣時間)",
       "venue": "BC Place, Vancouver, Canada"
-    },
-    {
-      "match_id": 67,
-      "group": "L",
-      "home_team": "Panama",
-      "away_team": "England",
-      "date": "2026-06-27",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 68,
-      "group": "L",
-      "home_team": "Croatia",
-      "away_team": "Ghana",
-      "date": "2026-06-27",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 69,
-      "group": "J",
-      "home_team": "Algeria",
-      "away_team": "Austria",
-      "date": "2026-06-27",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 70,
-      "group": "J",
-      "home_team": "Jordan",
-      "away_team": "Argentina",
-      "date": "2026-06-27",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 71,
-      "group": "K",
-      "home_team": "Colombia",
-      "away_team": "Portugal",
-      "date": "2026-06-27",
-      "venue": "TBD"
-    },
-    {
-      "match_id": 72,
-      "group": "K",
-      "home_team": "DR Congo",
-      "away_team": "Uzbekistan",
-      "date": "2026-06-27",
-      "venue": "TBD"
     },
     {
       "match_id": 73,
@@ -648,6 +684,66 @@
       "away_team": "Best 3rd place (A/B/C/D/F)",
       "date": "2026-06-28",
       "venue": "TBD"
+    },
+    {
+      "match_id": 67,
+      "group": "L",
+      "home_team": "Panama",
+      "away_team": "England",
+      "date": "2026-06-28",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
+    },
+    {
+      "match_id": 69,
+      "group": "J",
+      "home_team": "Algeria",
+      "away_team": "Austria",
+      "date": "2026-06-28",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
+    },
+    {
+      "match_id": 71,
+      "group": "K",
+      "home_team": "Colombia",
+      "away_team": "Portugal",
+      "date": "2026-06-28",
+      "venue": "TBD",
+      "time_local": "03:00",
+      "timezone": "UTC+8 (台灣時間)"
+    },
+    {
+      "match_id": 68,
+      "group": "L",
+      "home_team": "Croatia",
+      "away_team": "Ghana",
+      "date": "2026-06-28",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
+    },
+    {
+      "match_id": 70,
+      "group": "J",
+      "home_team": "Jordan",
+      "away_team": "Argentina",
+      "date": "2026-06-28",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
+    },
+    {
+      "match_id": 72,
+      "group": "K",
+      "home_team": "DR Congo",
+      "away_team": "Uzbekistan",
+      "date": "2026-06-28",
+      "venue": "TBD",
+      "time_local": "06:00",
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 75,

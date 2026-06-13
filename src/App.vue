@@ -28,10 +28,10 @@ interface Analysis {
 const matches = ref<Match[]>(scheduleData.matches)
 const analysis = ref<Record<string, Analysis>>(analysisData as any)
 
-// 預設選取最近的下一場賽事（台北時間 UTC+8）
-const now = new Date()
+// 預設選取最近的下一場賽事（時間已統一為台灣時間 UTC+8）
+const now = new Date(new Date().toLocaleString('en-US', { timeZone: 'Asia/Taipei' }))
 const nextMatch = matches.value.find(m => {
-  const matchDate = new Date(m.date + 'T' + (m.time_local || '00:00') + '+08:00')
+  const matchDate = new Date(m.date + 'T' + (m.time_local || '00:00') + ':00')
   return matchDate >= now
 }) || matches.value[matches.value.length - 1]
 
