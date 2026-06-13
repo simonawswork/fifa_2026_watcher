@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed, nextTick } from 'vue'
+import { ref, computed, nextTick, onMounted } from 'vue'
 import scheduleData from '../schedule.json'
 import analysisData from '../match_analysis.json'
 
@@ -24,30 +24,21 @@ interface Analysis {
   };
 }
 
-// 按日期排序
-const sortedMatches = computed<Match[]>(() => {
-  return [...scheduleData.matches].sort((a, b) => {
-    const dateA = new Date(a.date + (a.time_local ? 'T' + a.time_local : ''))
-    const dateB = new Date(b.date + (b.time_local ? 'T' + b.time_local : ''))
-    return dateA.getTime() - dateB.getTime()
-  })
-})
-
+// 資料已預先排序，直接使用
+const matches = ref<Match[]>(scheduleData.matches)
 const analysis = ref<Record<string, Analysis>>(analysisData as any)
 
 // 預設選取最近的下一場賽事（台北時間 UTC+8）
 const now = new Date()
-const nextMatch = computed(() => {
-  return sortedMatches.value.find(m => {
-    const matchDate = new Date(m.date + 'T' + (m.time_local || '00:00') + '+08:00')
-    return matchDate >= now
-  }) || sortedMatches.value[sortedMatches.value.length - 1]
-})
+const nextMatch = matches.value.find(m => {
+  const matchDate = new Date(m.date + 'T' + (m.time_local || '00:00') + '+08:00')
+  return matchDate >= now
+}) || matches.value[matches.value.length - 1]
 
-const selectedMatchId = ref<number>(nextMatch.value.match_id)
+const selectedMatchId = ref<number>(nextMatch.match_id)
 
 const selectedMatch = computed(() =>
-  sortedMatches.value.find(m => m.match_id === selectedMatchId.value)
+  matches.value.find(m => m.match_id === selectedMatchId.value)
 )
 
 const selectedAnalysis = computed(() =>
@@ -63,6 +54,14 @@ const selectMatch = (id: number) => {
     el?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
   })
 }
+
+// 頁面載入時自動捲動到預設的比賽
+onMounted(() => {
+  nextTick(() => {
+    const el = document.getElementById('match-' + selectedMatchId.value)
+    el?.scrollIntoView({ behavior: 'instant', block: 'center' })
+  })
+})
 </script>
 
 <template>
@@ -75,7 +74,7 @@ const selectMatch = (id: number) => {
       </div>
       <div class="match-list" ref="matchListRef">
         <div 
-          v-for="match in sortedMatches" 
+          v-for="match in matches" 
           :key="match.match_id"
           :id="'match-' + match.match_id"
           :class="['match-tab', { active: selectedMatchId === match.match_id }]"
