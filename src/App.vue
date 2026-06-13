@@ -46,6 +46,11 @@ const selectedAnalysis = computed(() =>
 )
 
 const matchListRef = ref<HTMLElement | null>(null)
+const sidebarCollapsed = ref(false)
+
+const toggleSidebar = () => {
+  sidebarCollapsed.value = !sidebarCollapsed.value
+}
 
 const selectMatch = (id: number) => {
   selectedMatchId.value = id
@@ -67,12 +72,19 @@ onMounted(() => {
 <template>
   <div class="container">
     <!-- Sidebar -->
-    <div class="sidebar">
+    <div :class="['sidebar', { collapsed: sidebarCollapsed }]">
       <div class="sidebar-header">
-        <h1>FIFA 2026</h1>
-        <p>觀賽與運彩指南</p>
+        <div class="header-top">
+          <div v-if="!sidebarCollapsed">
+            <h1>FIFA 2026</h1>
+            <p>觀賽與運彩指南</p>
+          </div>
+          <button class="toggle-btn" @click="toggleSidebar" :title="sidebarCollapsed ? '展開' : '收合'">
+            {{ sidebarCollapsed ? '▶' : '◀' }}
+          </button>
+        </div>
       </div>
-      <div class="match-list" ref="matchListRef">
+      <div class="match-list" ref="matchListRef" v-show="!sidebarCollapsed">
         <div 
           v-for="match in matches" 
           :key="match.match_id"
@@ -171,6 +183,36 @@ body {
   border-right: 1px solid #ddd;
   display: flex;
   flex-direction: column;
+  transition: width 0.3s ease;
+  flex-shrink: 0;
+}
+
+.sidebar.collapsed {
+  width: 52px;
+}
+
+.header-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.toggle-btn {
+  background: rgba(255,255,255,0.2);
+  border: none;
+  color: white;
+  font-size: 0.9rem;
+  cursor: pointer;
+  padding: 6px 10px;
+  border-radius: 6px;
+  flex-shrink: 0;
+  transition: background 0.2s;
+  margin-left: auto;
+}
+
+.toggle-btn:hover {
+  background: rgba(255,255,255,0.35);
 }
 
 .sidebar-header {
