@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed, nextTick, onMounted } from 'vue'
+import { ref, computed, nextTick, onMounted, watch } from 'vue'
 import scheduleData from '../schedule.json'
 import analysisData from '../match_analysis.json'
 
@@ -62,11 +62,46 @@ const selectMatch = (id: number) => {
   })
 }
 
+// Disqus 留言板
+const loadDisqus = (matchId: number, matchSlug: string) => {
+  const d = window as any
+  if (d.DISQUS) {
+    d.DISQUS.reset({
+      reload: true,
+      config: function (this: any) {
+        this.page.identifier = 'match-' + matchId
+        this.page.url = window.location.origin + window.location.pathname + '?match=' + matchId
+        this.page.title = matchSlug
+      }
+    })
+  } else {
+    d.disqus_config = function (this: any) {
+      this.page.identifier = 'match-' + matchId
+      this.page.url = window.location.origin + window.location.pathname + '?match=' + matchId
+      this.page.title = matchSlug
+    }
+    const s = document.createElement('script')
+    s.src = 'https://fifa2026.disqus.com/embed.js'
+    s.setAttribute('data-timestamp', String(+new Date()))
+    document.body.appendChild(s)
+  }
+}
+
+// 切換賽事時重新載入留言板
+watch(selectedMatchId, (id) => {
+  const match = matches.value.find(m => m.match_id === id)
+  if (match) {
+    nextTick(() => loadDisqus(id, match.home_team + ' vs ' + match.away_team))
+  }
+})
+
 // 頁面載入時自動捲動到預設的比賽
 onMounted(() => {
   nextTick(() => {
     const el = document.getElementById('match-' + selectedMatchId.value)
     el?.scrollIntoView({ behavior: 'instant', block: 'center' })
+    const match = matches.value.find(m => m.match_id === selectedMatchId.value)
+    if (match) loadDisqus(selectedMatchId.value, match.home_team + ' vs ' + match.away_team)
   })
 })
 </script>
@@ -151,6 +186,12 @@ onMounted(() => {
 
         <section v-else class="no-analysis">
           <p>此賽事尚無 AI 分析內容 (TBD)</p>
+        </section>
+
+        <!-- Disqus 留言板 -->
+        <section class="comments-section">
+          <h2>💬 留言討論</h2>
+          <div id="disqus_thread"></div>
         </section>
       </div>
     </div>
@@ -367,6 +408,19 @@ body {
   text-align: center;
   padding: 50px;
   color: #999;
+}
+
+.comments-section {
+  margin-top: 40px;
+  border-top: 2px solid #f0f0f0;
+  padding-top: 30px;
+}
+
+.comments-section h2 {
+  font-size: 1.2rem;
+  border-left: 4px solid var(--primary);
+  padding-left: 10px;
+  margin-bottom: 20px;
 }
 
 /* ==================
