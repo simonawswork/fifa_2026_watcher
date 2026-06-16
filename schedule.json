@@ -175,7 +175,7 @@
       "home_team": "阿根廷",
       "away_team": "阿爾及利亞",
       "date": "2026-06-17",
-      "venue": "TBD",
+      "venue": "Kansas City Stadium, Kansas City, USA",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -187,7 +187,7 @@
       "date": "2026-06-17",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)",
-      "venue": "TBD"
+      "venue": "New York New Jersey Stadium, East Rutherford, USA"
     },
     {
       "match_id": 20,
@@ -195,7 +195,7 @@
       "home_team": "奧地利",
       "away_team": "約旦",
       "date": "2026-06-17",
-      "venue": "TBD",
+      "venue": "Levi's Stadium, Santa Clara, USA",
       "time_local": "06:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -207,7 +207,7 @@
       "date": "2026-06-17",
       "time_local": "06:00",
       "timezone": "UTC+8 (台灣時間)",
-      "venue": "TBD"
+      "venue": "Gillette Stadium, Foxborough, USA"
     },
     {
       "match_id": 21,
