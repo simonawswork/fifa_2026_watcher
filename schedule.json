@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-06-13",
+  "last_updated": "2026-06-18",
   "matches": [
     {
       "match_id": 1,
@@ -215,7 +215,7 @@
       "home_team": "迦納",
       "away_team": "巴拿馬",
       "date": "2026-06-18",
-      "venue": "TBD",
+      "venue": "Toronto Stadium, Toronto, Canada",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -225,7 +225,7 @@
       "home_team": "葡萄牙",
       "away_team": "剛果民主共和國",
       "date": "2026-06-18",
-      "venue": "TBD",
+      "venue": "Houston Stadium, Houston, USA",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -235,7 +235,7 @@
       "home_team": "英格蘭",
       "away_team": "克羅埃西亞",
       "date": "2026-06-18",
-      "venue": "TBD",
+      "venue": "Dallas Stadium, Arlington, USA",
       "time_local": "06:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -245,7 +245,7 @@
       "home_team": "烏茲別克",
       "away_team": "哥倫比亞",
       "date": "2026-06-18",
-      "venue": "TBD",
+      "venue": "Estadio Azteca, Mexico City, Mexico",
       "time_local": "06:00",
       "timezone": "UTC+8 (台灣時間)"
     },
