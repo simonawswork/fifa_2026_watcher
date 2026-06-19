@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-06-19",
+  "last_updated": "2026-06-20",
   "matches": [
     {
       "match_id": 1,
@@ -297,7 +297,7 @@
       "date": "2026-06-20",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)",
-      "venue": "TBD"
+      "venue": "Lumen Field, Seattle, USA"
     },
     {
       "match_id": 30,
@@ -307,7 +307,7 @@
       "date": "2026-06-20",
       "time_local": "06:00",
       "timezone": "UTC+8 (台灣時間)",
-      "venue": "TBD"
+      "venue": "Gillette Stadium, Foxborough, USA"
     },
     {
       "match_id": 31,
