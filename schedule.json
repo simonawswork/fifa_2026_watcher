@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-06-21",
+  "last_updated": "2026-06-22",
   "matches": [
     {
       "match_id": 1,
@@ -375,7 +375,7 @@
       "home_team": "烏拉圭",
       "away_team": "維德角",
       "date": "2026-06-22",
-      "venue": "TBD",
+      "venue": "Hard Rock Stadium, Miami Gardens, USA",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -395,7 +395,7 @@
       "home_team": "西班牙",
       "away_team": "沙烏地阿拉伯",
       "date": "2026-06-22",
-      "venue": "TBD",
+      "venue": "Mercedes-Benz Stadium, Atlanta, USA",
       "time_local": "06:00",
       "timezone": "UTC+8 (台灣時間)"
     },
