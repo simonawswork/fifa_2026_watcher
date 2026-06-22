@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-06-22",
+  "last_updated": "2026-06-23",
   "matches": [
     {
       "match_id": 1,
@@ -415,7 +415,7 @@
       "home_team": "阿根廷",
       "away_team": "奧地利",
       "date": "2026-06-23",
-      "venue": "TBD",
+      "venue": "AT&T Stadium, Arlington, Texas, USA",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -427,7 +427,7 @@
       "date": "2026-06-23",
       "time_local": "05:00",
       "timezone": "UTC+8 (台灣時間)",
-      "venue": "TBD"
+      "venue": "Lincoln Financial Field, Philadelphia, USA"
     },
     {
       "match_id": 44,
@@ -435,7 +435,7 @@
       "home_team": "約旦",
       "away_team": "阿爾及利亞",
       "date": "2026-06-23",
-      "venue": "TBD",
+      "venue": "Levi's Stadium, Santa Clara, USA",
       "time_local": "06:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -447,7 +447,7 @@
       "date": "2026-06-23",
       "time_local": "08:00",
       "timezone": "UTC+8 (台灣時間)",
-      "venue": "TBD"
+      "venue": "MetLife Stadium, East Rutherford, New Jersey, USA"
     },
     {
       "match_id": 45,
