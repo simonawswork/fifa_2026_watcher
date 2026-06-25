@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-06-25",
+  "last_updated": "2026-06-26",
   "matches": [
     {
       "match_id": 1,
@@ -555,7 +555,7 @@
       "home_team": "庫拉索",
       "away_team": "象牙海岸",
       "date": "2026-06-26",
-      "venue": "TBD",
+      "venue": "Lincoln Financial Field, Philadelphia, USA",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -565,7 +565,7 @@
       "home_team": "厄瓜多",
       "away_team": "德國",
       "date": "2026-06-26",
-      "venue": "TBD",
+      "venue": "MetLife Stadium, East Rutherford, USA",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -577,7 +577,7 @@
       "date": "2026-06-26",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)",
-      "venue": "TBD"
+      "venue": "SoFi Stadium, Los Angeles, USA"
     },
     {
       "match_id": 60,
@@ -587,7 +587,7 @@
       "date": "2026-06-26",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)",
-      "venue": "TBD"
+      "venue": "Levi's Stadium, Santa Clara, USA"
     },
     {
       "match_id": 57,
@@ -595,7 +595,7 @@
       "home_team": "日本",
       "away_team": "瑞典",
       "date": "2026-06-26",
-      "venue": "TBD",
+      "venue": "Dallas Stadium, Arlington, USA",
       "time_local": "06:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -605,7 +605,7 @@
       "home_team": "突尼西亞",
       "away_team": "荷蘭",
       "date": "2026-06-26",
-      "venue": "TBD",
+      "venue": "Arrowhead Stadium, Kansas City, USA",
       "time_local": "06:00",
       "timezone": "UTC+8 (台灣時間)"
     },
