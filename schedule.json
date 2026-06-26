@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-06-26",
+  "last_updated": "2026-06-27",
   "matches": [
     {
       "match_id": 1,
@@ -615,7 +615,7 @@
       "home_team": "維德角",
       "away_team": "沙烏地阿拉伯",
       "date": "2026-06-27",
-      "venue": "TBD",
+      "venue": "NRG Stadium, Houston, USA",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -627,7 +627,7 @@
       "date": "2026-06-27",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)",
-      "venue": "TBD"
+      "venue": "Gillette Stadium, Foxborough, USA"
     },
     {
       "match_id": 62,
@@ -637,7 +637,7 @@
       "date": "2026-06-27",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)",
-      "venue": "TBD"
+      "venue": "BMO Field, Toronto, Canada"
     },
     {
       "match_id": 66,
@@ -645,7 +645,7 @@
       "home_team": "烏拉圭",
       "away_team": "西班牙",
       "date": "2026-06-27",
-      "venue": "TBD",
+      "venue": "Estadio Akron, Guadalajara, Mexico",
       "time_local": "06:00",
       "timezone": "UTC+8 (台灣時間)"
     },
