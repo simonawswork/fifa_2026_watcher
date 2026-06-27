@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-06-27",
+  "last_updated": "2026-06-28",
   "matches": [
     {
       "match_id": 1,
@@ -45,9 +45,9 @@
       "home_team": "美國",
       "away_team": "巴拉圭",
       "date": "2026-06-13",
+      "venue": "SoFi Stadium, Los Angeles, USA",
       "time_local": "09:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "SoFi Stadium, Los Angeles, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 8,
@@ -65,9 +65,9 @@
       "home_team": "巴西",
       "away_team": "摩洛哥",
       "date": "2026-06-14",
+      "venue": "TBD",
       "time_local": "06:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "TBD"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 5,
@@ -75,9 +75,9 @@
       "home_team": "海地",
       "away_team": "蘇格蘭",
       "date": "2026-06-14",
+      "venue": "TBD",
       "time_local": "09:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "TBD"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 6,
@@ -85,9 +85,9 @@
       "home_team": "澳洲",
       "away_team": "土耳其",
       "date": "2026-06-14",
+      "venue": "TBD",
       "time_local": "12:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "TBD"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 9,
@@ -115,9 +115,9 @@
       "home_team": "比利時",
       "away_team": "埃及",
       "date": "2026-06-15",
+      "venue": "SoFi Stadium, Los Angeles, USA",
       "time_local": "03:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "SoFi Stadium, Los Angeles, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 10,
@@ -165,9 +165,9 @@
       "home_team": "伊朗",
       "away_team": "紐西蘭",
       "date": "2026-06-16",
+      "venue": "Lumen Field, Seattle, USA",
       "time_local": "09:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "Lumen Field, Seattle, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 19,
@@ -185,9 +185,9 @@
       "home_team": "法國",
       "away_team": "塞內加爾",
       "date": "2026-06-17",
+      "venue": "New York New Jersey Stadium, East Rutherford, USA",
       "time_local": "03:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "New York New Jersey Stadium, East Rutherford, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 20,
@@ -205,9 +205,9 @@
       "home_team": "伊拉克",
       "away_team": "挪威",
       "date": "2026-06-17",
+      "venue": "Gillette Stadium, Foxborough, USA",
       "time_local": "06:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "Gillette Stadium, Foxborough, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 21,
@@ -295,9 +295,9 @@
       "home_team": "美國",
       "away_team": "澳洲",
       "date": "2026-06-20",
+      "venue": "Lumen Field, Seattle, USA",
       "time_local": "03:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "Lumen Field, Seattle, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 30,
@@ -305,9 +305,9 @@
       "home_team": "蘇格蘭",
       "away_team": "摩洛哥",
       "date": "2026-06-20",
+      "venue": "Gillette Stadium, Foxborough, USA",
       "time_local": "06:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "Gillette Stadium, Foxborough, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 31,
@@ -315,9 +315,9 @@
       "home_team": "土耳其",
       "away_team": "巴拉圭",
       "date": "2026-06-20",
+      "venue": "TBD",
       "time_local": "08:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "TBD"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 29,
@@ -325,9 +325,9 @@
       "home_team": "巴西",
       "away_team": "海地",
       "date": "2026-06-20",
+      "venue": "TBD",
       "time_local": "08:30",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "TBD"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 33,
@@ -385,9 +385,9 @@
       "home_team": "比利時",
       "away_team": "伊朗",
       "date": "2026-06-22",
+      "venue": "BC Place, Vancouver, Canada",
       "time_local": "03:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "BC Place, Vancouver, Canada"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 38,
@@ -405,9 +405,9 @@
       "home_team": "紐西蘭",
       "away_team": "埃及",
       "date": "2026-06-22",
+      "venue": "Lumen Field, Seattle, USA",
       "time_local": "06:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "Lumen Field, Seattle, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 43,
@@ -425,9 +425,9 @@
       "home_team": "法國",
       "away_team": "伊拉克",
       "date": "2026-06-23",
+      "venue": "Lincoln Financial Field, Philadelphia, USA",
       "time_local": "05:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "Lincoln Financial Field, Philadelphia, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 44,
@@ -445,9 +445,9 @@
       "home_team": "挪威",
       "away_team": "塞內加爾",
       "date": "2026-06-23",
+      "venue": "MetLife Stadium, East Rutherford, New Jersey, USA",
       "time_local": "08:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "MetLife Stadium, East Rutherford, New Jersey, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 45,
@@ -535,9 +535,9 @@
       "home_team": "蘇格蘭",
       "away_team": "巴西",
       "date": "2026-06-25",
+      "venue": "Hard Rock Stadium, Miami Gardens, USA",
       "time_local": "06:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "Hard Rock Stadium, Miami Gardens, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 50,
@@ -545,9 +545,9 @@
       "home_team": "摩洛哥",
       "away_team": "海地",
       "date": "2026-06-25",
+      "venue": "Mercedes-Benz Stadium, Atlanta, USA",
       "time_local": "06:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "Mercedes-Benz Stadium, Atlanta, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 55,
@@ -575,9 +575,9 @@
       "home_team": "土耳其",
       "away_team": "美國",
       "date": "2026-06-26",
+      "venue": "SoFi Stadium, Los Angeles, USA",
       "time_local": "03:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "SoFi Stadium, Los Angeles, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 60,
@@ -585,9 +585,9 @@
       "home_team": "巴拉圭",
       "away_team": "澳洲",
       "date": "2026-06-26",
+      "venue": "Levi's Stadium, Santa Clara, USA",
       "time_local": "03:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "Levi's Stadium, Santa Clara, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 57,
@@ -625,9 +625,9 @@
       "home_team": "挪威",
       "away_team": "法國",
       "date": "2026-06-27",
+      "venue": "Gillette Stadium, Foxborough, USA",
       "time_local": "03:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "Gillette Stadium, Foxborough, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 62,
@@ -635,9 +635,9 @@
       "home_team": "塞內加爾",
       "away_team": "伊拉克",
       "date": "2026-06-27",
+      "venue": "BMO Field, Toronto, Canada",
       "time_local": "03:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "BMO Field, Toronto, Canada"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 66,
@@ -655,9 +655,9 @@
       "home_team": "埃及",
       "away_team": "伊朗",
       "date": "2026-06-27",
+      "venue": "Lumen Field, Seattle, USA",
       "time_local": "08:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "Lumen Field, Seattle, USA"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 64,
@@ -665,9 +665,9 @@
       "home_team": "紐西蘭",
       "away_team": "比利時",
       "date": "2026-06-27",
+      "venue": "BC Place, Vancouver, Canada",
       "time_local": "08:00",
-      "timezone": "UTC+8 (台灣時間)",
-      "venue": "BC Place, Vancouver, Canada"
+      "timezone": "UTC+8 (台灣時間)"
     },
     {
       "match_id": 73,
@@ -691,7 +691,7 @@
       "home_team": "巴拿馬",
       "away_team": "英格蘭",
       "date": "2026-06-28",
-      "venue": "TBD",
+      "venue": "New York New Jersey Stadium, East Rutherford, USA",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -701,7 +701,7 @@
       "home_team": "阿爾及利亞",
       "away_team": "奧地利",
       "date": "2026-06-28",
-      "venue": "TBD",
+      "venue": "Kansas City Stadium, Kansas City, USA",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -711,7 +711,7 @@
       "home_team": "哥倫比亞",
       "away_team": "葡萄牙",
       "date": "2026-06-28",
-      "venue": "TBD",
+      "venue": "Hard Rock Stadium, Miami Gardens, USA",
       "time_local": "03:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -721,7 +721,7 @@
       "home_team": "克羅埃西亞",
       "away_team": "迦納",
       "date": "2026-06-28",
-      "venue": "TBD",
+      "venue": "Philadelphia Stadium, Philadelphia, USA",
       "time_local": "06:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -731,7 +731,7 @@
       "home_team": "約旦",
       "away_team": "阿根廷",
       "date": "2026-06-28",
-      "venue": "TBD",
+      "venue": "AT&T Stadium, Arlington, USA",
       "time_local": "06:00",
       "timezone": "UTC+8 (台灣時間)"
     },
@@ -741,7 +741,7 @@
       "home_team": "剛果民主共和國",
       "away_team": "烏茲別克",
       "date": "2026-06-28",
-      "venue": "TBD",
+      "venue": "Mercedes-Benz Stadium, Atlanta, USA",
       "time_local": "06:00",
       "timezone": "UTC+8 (台灣時間)"
     },
