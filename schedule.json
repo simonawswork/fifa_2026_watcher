@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-06-28",
+  "last_updated": "2026-06-29",
   "matches": [
     {
       "match_id": 1,
@@ -675,7 +675,7 @@
       "home_team": "Runner-up Group A",
       "away_team": "Runner-up Group B",
       "date": "2026-06-28",
-      "venue": "TBD"
+      "venue": "SoFi Stadium, Los Angeles, USA"
     },
     {
       "match_id": 74,
@@ -683,7 +683,7 @@
       "home_team": "Winner Group E",
       "away_team": "Best 3rd place (A/B/C/D/F)",
       "date": "2026-06-28",
-      "venue": "TBD"
+      "venue": "Gillette Stadium, Boston, USA"
     },
     {
       "match_id": 67,
