@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-06-30",
   "matches": [
     {
       "match_id": 1,
@@ -766,16 +766,16 @@
       "stage": "Round of 32",
       "home_team": "Winner Group I",
       "away_team": "Best 3rd place (C/D/F/G/H)",
-      "date": "2026-06-30",
-      "venue": "TBD"
+      "date": "2026-07-01",
+      "venue": "MetLife Stadium, East Rutherford, USA"
     },
     {
       "match_id": 78,
       "stage": "Round of 32",
       "home_team": "Runner-up Group E",
       "away_team": "Runner-up Group I",
-      "date": "2026-06-30",
-      "venue": "TBD"
+      "date": "2026-07-01",
+      "venue": "Dallas Stadium, Arlington, USA"
     },
     {
       "match_id": 79,
