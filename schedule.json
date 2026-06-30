@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-06-30",
+  "last_updated": "2026-07-01",
   "matches": [
     {
       "match_id": 1,
@@ -672,17 +672,17 @@
     {
       "match_id": 73,
       "stage": "Round of 32",
-      "home_team": "Runner-up Group A",
-      "away_team": "Runner-up Group B",
-      "date": "2026-06-28",
+      "home_team": "捷克",
+      "away_team": "加拿大",
+      "date": "2026-07-01",
       "venue": "SoFi Stadium, Los Angeles, USA"
     },
     {
       "match_id": 74,
       "stage": "Round of 32",
-      "home_team": "Winner Group E",
-      "away_team": "Best 3rd place (A/B/C/D/F)",
-      "date": "2026-06-28",
+      "home_team": "德國",
+      "away_team": "南韓",
+      "date": "2026-07-01",
       "venue": "Gillette Stadium, Boston, USA"
     },
     {
