@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-07-01",
+  "last_updated": "2026-07-02",
   "matches": [
     {
       "match_id": 1,
@@ -671,7 +671,7 @@
       "home_team": "葡萄牙",
       "away_team": "克羅埃西亞",
       "date": "2026-07-02",
-      "venue": "TBD"
+      "venue": "Toronto Stadium, Toronto, Canada"
     },
     {
       "match_id": 84,
@@ -679,7 +679,7 @@
       "home_team": "瑞士",
       "away_team": "阿爾及利亞",
       "date": "2026-07-02",
-      "venue": "TBD"
+      "venue": "BC Place, Vancouver, Canada"
     },
     {
       "match_id": 85,
@@ -687,7 +687,7 @@
       "home_team": "西班牙",
       "away_team": "奧地利",
       "date": "2026-07-02",
-      "venue": "TBD"
+      "venue": "SoFi Stadium, Los Angeles, USA"
     },
     {
       "match_id": 86,
