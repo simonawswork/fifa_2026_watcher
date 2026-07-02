@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-07-02",
+  "last_updated": "2026-07-03",
   "matches": [
     {
       "match_id": 1,
@@ -695,7 +695,7 @@
       "home_team": "澳洲",
       "away_team": "埃及",
       "date": "2026-07-03",
-      "venue": "TBD"
+      "venue": "Dallas Stadium, Arlington, USA"
     },
     {
       "match_id": 87,
@@ -703,7 +703,7 @@
       "home_team": "阿根廷",
       "away_team": "維德角",
       "date": "2026-07-03",
-      "venue": "TBD"
+      "venue": "Hard Rock Stadium, Miami, USA"
     },
     {
       "match_id": 88,
@@ -711,7 +711,7 @@
       "home_team": "哥倫比亞",
       "away_team": "迦納",
       "date": "2026-07-03",
-      "venue": "TBD"
+      "venue": "Kansas City Stadium, Kansas City, USA"
     }
   ]
 }
