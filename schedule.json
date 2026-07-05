@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-07-04",
+  "last_updated": "2026-07-05",
   "matches": [
     {
       "match_id": 1,
@@ -728,6 +728,22 @@
       "away_team": "英格蘭",
       "date": "2026-07-05",
       "venue": "Estadio Azteca, Mexico City, Mexico"
+    },
+    {
+      "match_id": 93,
+      "stage": "Round of 16",
+      "home_team": "葡萄牙",
+      "away_team": "西班牙",
+      "date": "2026-07-06",
+      "venue": "AT&T Stadium, Arlington, Texas, USA"
+    },
+    {
+      "match_id": 94,
+      "stage": "Round of 16",
+      "home_team": "美國",
+      "away_team": "比利時",
+      "date": "2026-07-06",
+      "venue": "Lumen Field, Seattle, Washington, USA"
     }
   ]
 }
