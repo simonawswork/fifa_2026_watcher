@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-07-06",
+  "last_updated": "2026-07-07",
   "matches": [
     {
       "match_id": 1,
@@ -744,6 +744,22 @@
       "away_team": "比利時",
       "date": "2026-07-06",
       "venue": "Lumen Field, Seattle, Washington, USA"
+    },
+    {
+      "match_id": 89,
+      "stage": "Round of 16",
+      "home_team": "阿根廷",
+      "away_team": "埃及",
+      "date": "2026-07-07",
+      "venue": "Mercedes-Benz Stadium, Atlanta, USA"
+    },
+    {
+      "match_id": 90,
+      "stage": "Round of 16",
+      "home_team": "瑞士",
+      "away_team": "哥倫比亞",
+      "date": "2026-07-07",
+      "venue": "BC Place, Vancouver, Canada"
     }
   ]
 }
