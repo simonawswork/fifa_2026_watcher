@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-07-07",
+  "last_updated": "2026-07-09",
   "matches": [
     {
       "match_id": 1,
@@ -760,6 +760,14 @@
       "away_team": "哥倫比亞",
       "date": "2026-07-07",
       "venue": "BC Place, Vancouver, Canada"
+    },
+    {
+      "match_id": 95,
+      "stage": "Quarter-final",
+      "home_team": "法國",
+      "away_team": "摩洛哥",
+      "date": "2026-07-09",
+      "venue": "Gillette Stadium, Foxborough, USA"
     }
   ]
 }
