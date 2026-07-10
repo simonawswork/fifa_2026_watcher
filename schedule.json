@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-07-09",
+  "last_updated": "2026-07-10",
   "matches": [
     {
       "match_id": 1,
@@ -768,6 +768,22 @@
       "away_team": "摩洛哥",
       "date": "2026-07-09",
       "venue": "Gillette Stadium, Foxborough, USA"
+    },
+    {
+      "match_id": 96,
+      "stage": "Quarter-final",
+      "home_team": "挪威",
+      "away_team": "英格蘭",
+      "date": "2026-07-11",
+      "venue": "Hard Rock Stadium, Miami Gardens, USA"
+    },
+    {
+      "match_id": 97,
+      "stage": "Quarter-final",
+      "home_team": "阿根廷",
+      "away_team": "瑞士",
+      "date": "2026-07-11",
+      "venue": "Arrowhead Stadium, Kansas City, USA"
     }
   ]
 }
