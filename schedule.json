@@ -7,7 +7,7 @@
     "United States"
   ],
   "source": "Wikipedia / FIFA official",
-  "last_updated": "2026-07-10",
+  "last_updated": "2026-07-13",
   "matches": [
     {
       "match_id": 1,
@@ -784,6 +784,14 @@
       "away_team": "瑞士",
       "date": "2026-07-11",
       "venue": "Arrowhead Stadium, Kansas City, USA"
+    },
+    {
+      "match_id": 101,
+      "stage": "Semi-final",
+      "home_team": "法國",
+      "away_team": "西班牙",
+      "date": "2026-07-14",
+      "venue": "AT&T Stadium, Arlington, Texas, USA"
     }
   ]
 }
